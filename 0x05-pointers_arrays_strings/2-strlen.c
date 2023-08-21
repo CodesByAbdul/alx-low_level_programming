@@ -4,14 +4,16 @@
  * @s: stores the string
  * Coder - CodesByAbdul
  * Return: 0 Always
+ */
 
 int _strlen(char *s)
 {
 	int length = 0;
+
 	while (*s != '\0')
 	{
 		length++;
 		s++;
 	}
-	return length;
+	return (0);
 }
