@@ -3,8 +3,6 @@
 
 /**
  * print_name - prints a name as is
- * main - main function
- * custom_print - prints name o
  * @name: name of the person
  * @f: funtion pointer
  *
